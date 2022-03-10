@@ -33,3 +33,13 @@
 --|:--:|:--
 csgo|198|1
 lol|218|2
+## 插入代码片段
+```c
+#include <stdio.h>
+
+int main()
+{
+   printf("hello world")
+   return 0
+}
+```
